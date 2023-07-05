@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\yana\Desktop\44444444444444444\44444444444444444\Source.cpp(25,6): warning C4101: dol: неиспользованная локальная переменная
+C:\Users\yana\Desktop\44444444444444444\44444444444444444\Source.cpp(204,7): warning C4101: lastname: неиспользованная локальная переменная
+  44444444444444444.vcxproj -> C:\Users\yana\Desktop\44444444444444444\Debug\44444444444444444.exe
