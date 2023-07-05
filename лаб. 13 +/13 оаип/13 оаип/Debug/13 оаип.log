@@ -1,0 +1,56 @@
+﻿Сборка начата 13.05.2023 14:44:25.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\yana\Desktop\13 оаип\13 оаип\13 оаип.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "C:\Users\yana\Desktop\13 оаип\Debug\".
+         Создание каталога "Debug\13 оаип.tlog\".
+       InitializeBuildStatus:
+         Создание "Debug\13 оаип.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.32.31326\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt heap.cpp lab13.cpp
+         heap.cpp
+     1>C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(72,17): warning C4566: символ, представленный универсальным именем символа "\u00CA", невозможно представить в текущей кодовой странице (1251)
+     1>C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(72,17): warning C4566: символ, представленный универсальным именем символа "\u00F3", невозможно представить в текущей кодовой странице (1251)
+     1>C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(72,17): warning C4566: символ, представленный универсальным именем символа "\u00F7", невозможно представить в текущей кодовой странице (1251)
+     1>C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(72,17): warning C4566: символ, представленный универсальным именем символа "\u00E0", невозможно представить в текущей кодовой странице (1251)
+     1>C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(72,17): warning C4566: символ, представленный универсальным именем символа "\u00EF", невозможно представить в текущей кодовой странице (1251)
+     1>C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(72,17): warning C4566: символ, представленный универсальным именем символа "\u00F1", невозможно представить в текущей кодовой странице (1251)
+     1>C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(72,17): warning C4566: символ, представленный универсальным именем символа "\u00F2", невозможно представить в текущей кодовой странице (1251)
+     1>C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(117,11): warning C4566: символ, представленный универсальным именем символа "\u00C2", невозможно представить в текущей кодовой странице (1251)
+     1>C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(117,11): warning C4566: символ, представленный универсальным именем символа "\u00E2", невозможно представить в текущей кодовой странице (1251)
+     1>C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(117,11): warning C4566: символ, представленный универсальным именем символа "\u00E5", невозможно представить в текущей кодовой странице (1251)
+     1>C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(117,11): warning C4566: символ, представленный универсальным именем символа "\u00E4", невозможно представить в текущей кодовой странице (1251)
+     1>C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(117,11): warning C4566: символ, представленный универсальным именем символа "\u00E8", невозможно представить в текущей кодовой странице (1251)
+     1>C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(117,11): warning C4566: символ, представленный универсальным именем символа "\u00F2", невозможно представить в текущей кодовой странице (1251)
+         lab13.cpp
+         Создание кода...
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.32.31326\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yana\Desktop\13 оаип\Debug\13 оаип.exe" /INCREMENTAL /ILK:"Debug\13 оаип.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\yana\Desktop\13 оаип\Debug\13 оаип.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yana\Desktop\13 оаип\Debug\13 оаип.lib" /MACHINE:X86 Debug\heap.obj
+         Debug\lab13.obj
+         13 оаип.vcxproj -> C:\Users\yana\Desktop\13 оаип\Debug\13 оаип.exe
+       FinalizeBuildStatus:
+         Файл "Debug\13 оаип.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\13 оаип.tlog\13 оаип.lastbuildstate".
+     1>Сборка проекта "C:\Users\yana\Desktop\13 оаип\13 оаип\13 оаип.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\yana\Desktop\13 оаип\13 оаип\13 оаип.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(72,17): warning C4566: символ, представленный универсальным именем символа "\u00CA", невозможно представить в текущей кодовой странице (1251)
+         C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(72,17): warning C4566: символ, представленный универсальным именем символа "\u00F3", невозможно представить в текущей кодовой странице (1251)
+         C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(72,17): warning C4566: символ, представленный универсальным именем символа "\u00F7", невозможно представить в текущей кодовой странице (1251)
+         C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(72,17): warning C4566: символ, представленный универсальным именем символа "\u00E0", невозможно представить в текущей кодовой странице (1251)
+         C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(72,17): warning C4566: символ, представленный универсальным именем символа "\u00EF", невозможно представить в текущей кодовой странице (1251)
+         C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(72,17): warning C4566: символ, представленный универсальным именем символа "\u00F1", невозможно представить в текущей кодовой странице (1251)
+         C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(72,17): warning C4566: символ, представленный универсальным именем символа "\u00F2", невозможно представить в текущей кодовой странице (1251)
+         C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(117,11): warning C4566: символ, представленный универсальным именем символа "\u00C2", невозможно представить в текущей кодовой странице (1251)
+         C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(117,11): warning C4566: символ, представленный универсальным именем символа "\u00E2", невозможно представить в текущей кодовой странице (1251)
+         C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(117,11): warning C4566: символ, представленный универсальным именем символа "\u00E5", невозможно представить в текущей кодовой странице (1251)
+         C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(117,11): warning C4566: символ, представленный универсальным именем символа "\u00E4", невозможно представить в текущей кодовой странице (1251)
+         C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(117,11): warning C4566: символ, представленный универсальным именем символа "\u00E8", невозможно представить в текущей кодовой странице (1251)
+         C:\Users\yana\Desktop\13 оаип\13 оаип\heap.cpp(117,11): warning C4566: символ, представленный универсальным именем символа "\u00F2", невозможно представить в текущей кодовой странице (1251)
+
+    Предупреждений: 13
+    Ошибок: 0
+
+Прошло времени 00:00:01.82
