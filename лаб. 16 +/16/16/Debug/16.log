@@ -1,0 +1,19 @@
+﻿Сборка начата 18.05.2023 06:15:06.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\yana\Desktop\16\16\16.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\16.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.32.31326\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yana\Desktop\16\Debug\16.exe" /INCREMENTAL /ILK:"Debug\16.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\yana\Desktop\16\Debug\16.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yana\Desktop\16\Debug\16.lib" /MACHINE:X86 Debug\Source.obj
+         16.vcxproj -> C:\Users\yana\Desktop\16\Debug\16.exe
+       FinalizeBuildStatus:
+         Файл "Debug\16.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\16.tlog\16.lastbuildstate".
+     1>Сборка проекта "C:\Users\yana\Desktop\16\16\16.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.50
