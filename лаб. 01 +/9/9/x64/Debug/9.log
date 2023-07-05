@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\yana\Desktop\9\9\Source.cpp(31,24): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\yana\Desktop\9\9\Source.cpp(35,12): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\yana\Desktop\9\9\Source.cpp(68,59): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\yana\Desktop\9\9\Source.cpp(68,70): warning C4101: slovo: неиспользованная локальная переменная
+  9.vcxproj -> C:\Users\yana\Desktop\9\x64\Debug\9.exe

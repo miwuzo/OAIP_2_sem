@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\yana\Desktop\15\15\Source.cpp(26,24): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\yana\Desktop\15\15\Source.cpp(30,17): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  15.vcxproj -> C:\Users\yana\Desktop\15\x64\Debug\15.exe
